@@ -13,7 +13,6 @@ def find_greatest(num1, num2, num3):
         return num3
 
 
-# Main program
 print("Enter three numbers:")
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
